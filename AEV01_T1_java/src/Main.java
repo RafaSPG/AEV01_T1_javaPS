@@ -4,6 +4,7 @@ public class Main {
         App app = new App();
 
         app.sayHello();
+        app.mostrarPrimos();
 
 
 
